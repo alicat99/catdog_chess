@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e94727a72fc86af4eb69af5539840cd0, type: 3}
+  m_Name: 'PieceSprites '
+  m_EditorClassIdentifier: 
+  targetPath: Assets/Game/Piece/PieceSprites
+  data:
+  - {fileID: 2800000, guid: 5932571661aff354dbcf86a7f30a0034, type: 3}
+  - {fileID: 2800000, guid: 60a2a9dba22f47e47b23a8e11edbcc1a, type: 3}
+  - {fileID: 2800000, guid: a733dfb1aea802a4bb4df07cc32db96c, type: 3}
+  - {fileID: 2800000, guid: 70e30951ba19b2a46935419f051b8518, type: 3}
+  - {fileID: 2800000, guid: d8a25fd3b54a6a048a5c0a6c43e778c3, type: 3}
+  - {fileID: 2800000, guid: 30cc6f0ac13f4ea47a3978fafda45786, type: 3}
+  - {fileID: 2800000, guid: 5ac21e6e934243c4e975876d475ab257, type: 3}
+  - {fileID: 2800000, guid: 21458633ca7b6b74d9d5b4733b850ccc, type: 3}
+  - {fileID: 2800000, guid: fa751fe9298946e47ab4b6c20d159929, type: 3}
+  - {fileID: 2800000, guid: b45cccb28158eab4995ddfac4c8a7a26, type: 3}
+  - {fileID: 2800000, guid: 33d735c79e2af22479cfc290fd229afe, type: 3}
+  - {fileID: 2800000, guid: 4b49c07913dafbd46b0d5de83a26d624, type: 3}
